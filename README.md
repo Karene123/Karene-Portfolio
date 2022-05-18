@@ -38,7 +38,7 @@ This is some parts of the vignette we created to explain how to use this package
 Cyclic 8 is one of the groups we decided to work on. This group will be used as an example
 
 ### If the user desires to create a Cyclic_8 group.
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20025038.png)
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20025109.png)
 
 ### If the user desires to check whether the object belongs to the Cyclic_8 group. 
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20025023.png)
@@ -46,4 +46,5 @@ Cyclic 8 is one of the groups we decided to work on. This group will be used as 
 ### If the user desires to check the group name
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20025038.png)
 
-
+### If the user desires to verify if a specific group is inside the sgroupr package
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20025109.png)
