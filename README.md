@@ -3,13 +3,14 @@ Data Science Portfolio
 
 (Project 1: Environmental, Social and Governmental)(https://github.com/Karene123/ESG-Project)
 
-•	Conducted a simple and a multiple linear regression analysis to examine the relation between population lifespan and response variables such as CO2 emissions or political stability using R.
-• Proposed a regression model to address the research question. 
+I collaborated with classmates and we conducted a simple and multiple linear regression analysis to examine the relation between a population lifespan and 20 response variables such as C02 emissions or political stability. This dataset was published by the WORLD BANK. At the end of our research we were able to come up with a regression model to address our research question.  
 
+## Use GGPAIRS to evaluate the correlations between variables 
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003222.png)
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003412.png)
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003506.png)
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003222.png)
+
+## Conduct a simple linear regression (Political Stability)
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003536.png)
+
 
 ((Project 2: Media News Project)(https://github.com/Karene123/Media-New-Project)
 
