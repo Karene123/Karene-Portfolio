@@ -7,7 +7,7 @@ Data Science Portfolio
 • Proposed a regression model to address the research question. 
 
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003222.png)
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003222.png)
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003412.png)
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003222.png)
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003222.png)
 
