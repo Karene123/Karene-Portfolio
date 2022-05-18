@@ -56,10 +56,10 @@ We were interested in exploring the trends in the youth population across the Un
 Those are some of the graphs we created:
 
 ### Create a graph to determine the number of Black individuals under 18 by state in 2010
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20030849.png)
+![](/images/Screenshot%202022-05-18%20030849.png)
 
 ### Create a graph to determine the number of White individuals under 18 by state in 2010
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20031010.png)
+![](/images/Screenshot%202022-05-18%20031010.png)
 
 
 
