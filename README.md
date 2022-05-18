@@ -1,5 +1,4 @@
-# Karene-Portfolio
-Data Science Portfolio
+# Karene Portfolio
 
 (Project 1: Environmental, Social and Governmental)(https://github.com/Karene123/ESG-Project)
 
@@ -11,9 +10,19 @@ I collaborated with classmates and we conducted a simple and multiple linear reg
 ## Conduct a simple linear regression (Political Stability)
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003536.png)
 
+## Examine Multicollinearity
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20012043.png)
 
 ((Project 2: Media News Project)(https://github.com/Karene123/Media-New-Project)
 
 We collected a dataset published by the Pew Research Center. We then came up with three potential hypotheses on the dataset. Following those steps we had to clean, organize and explore the dataset through visuals. After exploring we were able to draw a conclusion and write a discussion based on the litterature review we did. 
 
+## Explore the relationship between 
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20012043.png)
+
+## Explore the relationship between 
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20012043.png)
+
+## Check if the numbers are accurate
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20012043.png)
 
