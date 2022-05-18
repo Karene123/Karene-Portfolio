@@ -21,8 +21,8 @@ We collected a dataset published by the Pew Research Center. We then came up wit
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20020456.png)
 
 ## Explore the relationship between 
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20012043.png)
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20020532.png)
 
 ## Check if the numbers are accurate
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20012043.png)
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20020532.png)
 
