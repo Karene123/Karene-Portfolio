@@ -61,5 +61,12 @@ Those are some of the graphs we created:
 ### Create a graph to determine the number of White individuals under 18 by state in 2010
 ![](/images/Screenshot%202022-05-18%20031010.png)
 
+# Project 5: Shiny App
+I collaborated with a classmate to work on this project. We were interested in exploring the World Cup dataset.
+This is a preview of our Shiny App:
+
+### Create our Shiny App
+![](/images/Screenshot%202022-05-18%20035045.png)
+
 
 
