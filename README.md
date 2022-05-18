@@ -8,7 +8,7 @@ Data Science Portfolio
 
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003222.png)
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003412.png)
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003430.png)
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003506.png)
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003222.png)
 
 ((Project 2: Media News Project)(https://github.com/Karene123/Media-New-Project)
