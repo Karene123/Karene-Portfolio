@@ -15,7 +15,7 @@ Those are some of the graphs we built:
 ### Examine Multicollinearity
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20012043.png)
 
-# [Project 2: Media News Project](https://github.com/Karene123/Media-New-Project)
+# [Project 2: Media News](https://github.com/Karene123/Media-New-Project)
 
 We collected a dataset published by the Pew Research Center. We then came up with three potential hypotheses on the dataset. Following those steps we had to clean, organize and explore the dataset through visuals. After exploring we were able to draw a conclusion and write a discussion based on the litterature review we did. 
 
@@ -35,5 +35,15 @@ Those are some of the graphs we built:
 This R-package contains 20 of the small finite groups. Each users is able to test, check and produce the desired outcome.
 
 This is some parts of the vignette we created to explain how to use this package:
+Cyclic 8 is one of the groups we decided to work on. This group will be used as an example
+
+### If the user desires to create a Cyclic_8 group.
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20020532.png)
+
+### If the user desires to check whether the object belongs to the Cyclic_8 group. 
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20020532.png)
+
+### If the user desires to check the group name
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20020532.png)
 
 
