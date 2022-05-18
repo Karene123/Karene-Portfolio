@@ -48,3 +48,18 @@ Cyclic 8 is one of the groups we decided to work on. This group will be used as 
 
 ### If the user desires to verify if a specific group is inside the sgroupr package
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20025109.png)
+
+# Project 4: Web Scraping 
+I collaborate with a classmate to work on this project.
+We were interested in exploring the trends in the youth population across the United States. To do so, we visited the US Census Bureau website that contains many data sets about population that we can take advantage of through webscrapping with API techniques.
+
+Those are some of the graphs we created:
+
+### Create a graph to determine the amount of Black individuals under 18 by state in 2010
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20020456.png)
+
+### Create a graph to determine the amount of White individuals under 18 by state in 2010
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20020532.png)
+
+
+
