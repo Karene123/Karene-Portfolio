@@ -9,3 +9,4 @@ Data Science Portfolio
 ((Project 2: Media News Project)(https://github.com/Karene123/Media-New-Project)
 
 We collected a dataset published by the Pew Research Center. We then came up with three potential hypotheses on the dataset. Following those steps we had to clean, organize and explore the dataset through visuals. After exploring we were able to draw a conclusion and write a discussion based on the litterature review we did. 
+![]()
