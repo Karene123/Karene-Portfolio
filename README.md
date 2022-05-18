@@ -7,13 +7,13 @@ I collaborated with classmates and we conducted a simple and multiple linear reg
 Those are some of the graphs we created:
 
 ### Use GGPAIRS to evaluate the correlations between variables 
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003222.png)
+![](/images/Screenshot%202022-05-18%20003222.png)
 
 ### Conduct a simple linear regression (Political Stability)
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20003536.png)
+![](/images/Screenshot%202022-05-18%20003536.png)
 
 ### Examine Multicollinearity
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20012043.png)
+![](/images/Screenshot%202022-05-18%20012043.png)
 
 # [Project 2: Media News](https://github.com/Karene123/Media-New-Project)
 
