@@ -21,14 +21,14 @@ We collected a dataset published by the Pew Research Center. We then came up wit
 
 Those are some of the graphs we created:
 
-### Explore the relationship between Method of News Intake and the Amount of Trust In Others
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20020456.png)
+### Explore the relationship between Prefered Method of News Intake and the Amount of Trust In Others
+![](/images/Screenshot%202022-05-18%20020456.png)
 
-### Explore the relationship between 
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20020532.png)
+### Explore the relationship between Frequency on Social Media as News Intake and Average Amount of Trust in National News 
+![](images/Screenshot%202022-05-18%20020552.png)
 
 ### Check if the numbers are accurate
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20020532.png)
+![](/images/Screenshot%202022-05-18%20020532.png)
 
 # Project 3: Sgroup Package
 I collaborated with some classmates to build this R-package.
