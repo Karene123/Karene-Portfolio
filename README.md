@@ -17,8 +17,8 @@ I collaborated with classmates and we conducted a simple and multiple linear reg
 
 We collected a dataset published by the Pew Research Center. We then came up with three potential hypotheses on the dataset. Following those steps we had to clean, organize and explore the dataset through visuals. After exploring we were able to draw a conclusion and write a discussion based on the litterature review we did. 
 
-## Explore the relationship between 
-![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20012043.png)
+## Explore the relationship between Method of News Intake and the Amount of Trust In Others
+![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20020456.png)
 
 ## Explore the relationship between 
 ![](https://github.com/Karene123/Karene-Portfolio/blob/main/Screenshot%202022-05-18%20012043.png)
